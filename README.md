@@ -53,7 +53,7 @@ Definir dos pasos en el pipeline:
 - Automatización exitosa del pipeline incluyendo ambientes distintos para s
 - Documentación sobre ejecución, variables necesarias para correr en local, como probar la imagen docker en local, etc
 
-### Parte 2
+### Parte 2
 
 [Pendiente]
 - Controles de calidad
