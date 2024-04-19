@@ -6,7 +6,7 @@
 
 **Objetivo**
 
-- Crear un servicio API REST o un servidor web con al menos 2 endpoints o páginas según corresponda.
+- Crear un servicio API REST y/o un servidor web con al menos 2 endpoints o páginas según corresponda.
 
 - Utilizar un marco de desarrollo para la implementación del servicio.
 Documentar claramente la API, especificando los endpoints, métodos HTTP permitidos y el formato de los datos de solicitud y respuesta.
